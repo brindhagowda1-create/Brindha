@@ -1,0 +1,69 @@
+.block{
+    display: block;
+    margin-left: 10;
+    background-color: rgb(153, 119, 119);
+   padding: 10px;
+    margin: 10px;
+
+}
+.inlineblock{
+    display: inline;
+    margin-left: 10;
+    background-color: rgb(153, 119, 119);
+    margin:10px;
+    display: inline-block;
+    height: 40px;
+    width: 30px;
+    border-style: double;
+}
+.none{
+    display: none;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+}
+button:hover{
+    color: rgb(183, 156, 132);
+}
+div:hover{
+    color: rgb(183, 100, 137);
+    font-size: xx-large;
+    transform: scale(1,1);
+    
+  
+   
+}
+.grid{
+    display: grid;
+     gap: 10px;
+     color: rgb(40, 102, 81);
+     text-align: center;
+}
+.a{
+     display: grid;
+     gap: 10px;
+     color: rgb(40, 102, 81);
+     text-align: center;
+}
+.b{
+    display: grid;
+    grid-template-columns: 1fr,4fr;
+    gap: 10px;
+     color: rgb(40, 102, 81);
+
+}
+.c{
+    display: grid;
+     grid-template-columns: 1fr,4fr;
+    gap: 10px;
+     color: rgb(40, 102, 81);
+}
+.d{
+    display: grid;
+     grid-template-columns: 1fr,4fr;
+    gap: 10px;
+     color: rgb(40, 102, 81);
+}
+
+

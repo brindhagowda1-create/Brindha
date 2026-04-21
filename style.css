@@ -1,0 +1,23 @@
+div{
+    background-image: url(download.jpg);
+    color: rgb(10, 12, 12);
+    font-family: 'Lucida Sans';
+    
+    background-color:black;
+    width: 700px;
+    height: 1500px;
+    text-align: left;
+    background-position:left;
+    
+    }
+    form{
+        color: black;
+        }
+    label{
+        color: black;
+    }
+    input{
+        color: black;
+    }
+    
+    
